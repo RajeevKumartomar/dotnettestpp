@@ -1,0 +1,15 @@
+F:\Azure Training\myApp\bin\Debug\net6.0\myApp.exe
+F:\Azure Training\myApp\bin\Debug\net6.0\myApp.deps.json
+F:\Azure Training\myApp\bin\Debug\net6.0\myApp.runtimeconfig.json
+F:\Azure Training\myApp\bin\Debug\net6.0\myApp.dll
+F:\Azure Training\myApp\bin\Debug\net6.0\myApp.pdb
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.csproj.AssemblyReference.cache
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.AssemblyInfoInputs.cache
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.AssemblyInfo.cs
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.csproj.CoreCompileInputs.cache
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.dll
+F:\Azure Training\myApp\obj\Debug\net6.0\refint\myApp.dll
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.pdb
+F:\Azure Training\myApp\obj\Debug\net6.0\myApp.genruntimeconfig.cache
+F:\Azure Training\myApp\obj\Debug\net6.0\ref\myApp.dll
